@@ -1,0 +1,5 @@
+[user]
+	name = Ebert Mahon
+	email = ebertmahon@gmail.com
+[core]
+	editor = mate -w
